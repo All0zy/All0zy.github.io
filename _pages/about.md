@@ -40,12 +40,32 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
   <div class='paper-box-text' markdown="1">
   [National Undergraduate Innovation and Entrepreneurship Training Program]
 
-  [Development and Application of Multi-Sensor Based Intelligent Vehicle Supervision System](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  **Development and Application of Multi-Sensor Based Intelligent Vehicle Supervision System**
 
-  **Yang Zhang (Project Leader)**, Yuxing Duan, Meng Zhang
+  Project Leader | Nov 2024 – Mar 2026
 
   - Spearheaded the full-stack development of a dual-end supervision platform (Mobile & Web) using Node.js, Vue.js, and MySQL, integrating IoT platforms for real-time data acquisition and preprocessing.
   - Secured 2 Software Copyrights (Vehicle Online Application System, Vehicle Intelligent Supervision System) and 1 Utility Model Patent (Mining Convoy Supervision Device based on MCU & Multi-sensors).
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Provincial</div>
+      <img src='images/re01.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Provincial Undergraduate Innovation and Entrepreneurship Training Program]
+
+  **Mining Area Disaster Monitoring and Early Warning Platform Development**
+
+  Member | Sep 2025 – Dec 2025
+
+  - Engineered data preprocessing pipelines and API interfaces for a comprehensive monitoring system supporting risk assessment, numerical simulation, subsidence monitoring, and early warning analysis.
+  - Led frontend development to visualize complex mining data, enhancing situational awareness for disaster prevention.
+  - Authored 1 Invention Patent: "Multi-factor Coupling Early Warning Method, Device, Equipment, and Medium for Mining Disasters."
   </div>
 </div>
 
