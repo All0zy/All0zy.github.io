@@ -122,7 +122,7 @@ Researcher
 
 ## Scholarships
 
-<p align="center"><img src="/images/honor01.jpg" alt="Scholarships and Honors" width="60vw"></p>
+<p align="center"><img src="/images/honor01.jpg" alt="Scholarships and Honors" width="60%"></p>
 
 - *2024.09*, 2023-2024 National Scholarship for Undergraduate Students
 - *2025.09*, 2024-2025 National Scholarship for Undergraduate Students
