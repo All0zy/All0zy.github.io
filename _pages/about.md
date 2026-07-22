@@ -34,7 +34,7 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
   <div class='paper-box-image'>
     <div>
       <div class="badge">National</div>
-      <img src='images/re01.jpg' alt="sym" width="100%">
+      <img src='images/re01.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
