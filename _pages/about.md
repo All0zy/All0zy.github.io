@@ -38,11 +38,12 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
+
+  **[Nov 2024 – Mar 2026]Development and Application of Multi-Sensor Based Intelligent Vehicle Supervision System**
+
   [National Undergraduate Innovation and Entrepreneurship Training Program]
 
-  **Development and Application of Multi-Sensor Based Intelligent Vehicle Supervision System**
-
-  Project Leader | Nov 2024 – Mar 2026
+  Project Leader
 
   - Spearheaded the full-stack development of a dual-end supervision platform (Mobile & Web) using Node.js, Vue.js, and MySQL, integrating IoT platforms for real-time data acquisition and preprocessing.
   - Secured 2 Software Copyrights (Vehicle Online Application System, Vehicle Intelligent Supervision System) and 1 Utility Model Patent (Mining Convoy Supervision Device based on MCU & Multi-sensors).
@@ -57,11 +58,12 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
+
+  **[Sep 2025 – Dec 2025]Mining Area Disaster Monitoring and Early Warning Platform Development**
+
   [Provincial Undergraduate Innovation and Entrepreneurship Training Program]
 
-  **Mining Area Disaster Monitoring and Early Warning Platform Development**
-
-  Member | Sep 2025 – Dec 2025
+  Member
 
   - Engineered data preprocessing pipelines and API interfaces for a comprehensive monitoring system supporting risk assessment, numerical simulation, subsidence monitoring, and early warning analysis.
   - Led frontend development to visualize complex mining data, enhancing situational awareness for disaster prevention.
@@ -69,21 +71,21 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
   </div>
 </div>
 
+**[Sep 2025 – Dec 2025]Research on Lightweight Processing Methods for Oblique Photography 3D Models**
+
 [Undergraduate Research Training, Northeastern University]
 
-**Research on Lightweight Processing Methods for Oblique Photography 3D Models**
-
-Researcher | Sep 2025 – Dec 2025
+Researcher
 
 - Addressed challenges of large data volume and low rendering efficiency in oblique photography by reproducing an improved QEM (Quadric Error Metrics) algorithm.
 - Introduced curvature constraints and boundary protection mechanisms to optimize the geometry and texture of 3D models while maintaining visual fidelity.
 Developed an integrated lightweight processing tool prototype using C++, OSG (OpenSceneGraph), and Qt.
 
+**[Mar 2026 – Jun 2026]Digital Twin Scene Construction and System Development Based on Multi-Source Model Fusion**
+
 [Undergraduate Research Training, Northeastern University]
 
-**Digital Twin Scene Construction and System Development Based on Multi-Source Model Fusion**
-
-Researcher | Mar 2026 – Jun 2026
+Researcher
 
 - Constructed a preliminary WebGIS platform based on Three.js to facilitate the fusion of multi-source models within digital twin scenarios.
 - Implemented interactive visualization features to support the seamless display and manipulation of heterogeneous spatial data.
