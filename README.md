@@ -10,12 +10,6 @@ AcadHomepage
 
 <p align="center">A personal academic homepage for Yang Zhang built with Jekyll and GitHub Pages</p>
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
-
 ## Project Overview
 
 This repository hosts the source code of a personal academic homepage for Yang Zhang, an undergraduate student in Surveying and Mapping Engineering at Northeastern University (China). The site presents his education, research interests, innovation projects, patents, software copyrights, honors, and leadership experience in a polished and professional layout.

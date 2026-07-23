@@ -9,12 +9,6 @@ AcadHomepage
 
 <p align="center">一个基于 Jekyll 和 GitHub Pages 的个人学术主页项目</p>
 
-<p align="center">
-    <br>
-    <img src="./screenshot.png" width="100%"/>
-    <br>
-</p>
-
 ## 项目简介
 
 这个仓库是张洋的个人学术主页源码，基于 Jekyll 和 GitHub Pages 搭建，用于展示他的教育背景、研究兴趣、科研项目、知识产权成果、荣誉奖励和组织经历。这个主页以清晰、专业的方式呈现其在测绘工程与智能系统方向的学习与实践成果。
