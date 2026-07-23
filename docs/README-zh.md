@@ -1,19 +1,13 @@
-
 <h1 align="center">
 AcadHomepage
 </h1>
 
 <div align="center">
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [English README](../README.md) 
-
+<a href="../README.md">English</a> | <a href="./README-zh.md">中文</a>
 </div>
 
-<p align="center">一个现代、响应式的个人学术主页</p>
-
+<p align="center">一个基于 Jekyll 和 GitHub Pages 的个人学术主页项目</p>
 
 <p align="center">
     <br>
@@ -21,47 +15,50 @@ AcadHomepage
     <br>
 </p>
 
-一些例子：
-- [样例页面](https://rayeren.github.io/acad-homepage.github.io/)
-- [作者的个人主页](https://rayeren.github.io/)
+## 项目简介
 
-## 主要特点
-- **自动更新谷歌学术引用**: 借助谷歌学术爬虫和github action功能，本仓库可以自动更新作者的引用数和论文引用数。
-- **支持谷歌Analytics**: 你可以通过简单的配置来实现使用谷歌Analytics跟踪网页的流量。
-- **响应式的**: 此主页会针对不同的屏幕尺寸自动调整布局。
-- **美观而简约**: 此主页美观而简约，适合个人学术主页的搭建。
-- **搜索引擎优化**: 搜索引擎优化 (SEO) 帮助搜索引擎轻松找到您在主页上发布的信息，然后将其与类似网站进行排名，并获得排名优势。
+这个仓库是张洋的个人学术主页源码，基于 Jekyll 和 GitHub Pages 搭建，用于展示他的教育背景、研究兴趣、科研项目、知识产权成果、荣誉奖励和组织经历。这个主页以清晰、专业的方式呈现其在测绘工程与智能系统方向的学习与实践成果。
 
-## 快速开始
+## 技术栈
 
-1. Fork本仓库到`USERNAME/USERNAME.github.io`，其中`USERNAME`是你的github用户名。
-1. 配置谷歌学术引用爬虫：
-    1. 在你的谷歌学术引用页面的url里找到你的谷歌学术ID：例如，在url https://scholar.google.com/citations?user=SCHOLAR_ID 中，`SCHOLAR_ID`部分即为你的谷歌学术ID。
-    1. 在github本仓库页面的`Settings -> Secrets -> Actions -> New repository secret`中，添加`GOOGLE_SCHOLAR_ID`变量：`name=GOOGLE_SCHOLAR_ID`、`value=SCHOLAR_ID`。
-    1. 在github本仓库页面的`Action`中，点击*"I understand my workflows, go ahead and enable them"*启用workflows by clicking *"。本action将会谷歌学术引用的统计量数据`gs_data.json`到本仓库的`google-scholar-stats`分支中。每次修改main分支的内容会触发该action。本action也会在每天08:00 UTC定时触发。
-1. 使用 [favicon-generator](https://redketchup.io/favicon-generator)生成favicon（网页icon文件），并下载所有文件到`REPO/images`。
-1. 修改主页配置文件[_config.yml](../_config.yml):
-    1. `title`: 主页标题
-    1. `description`: 主页的描述
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (可选的): 谷歌Analytics ID
-    1. SEO相关的键值 (可选的): 从搜索引擎的控制台里获得对应的ID (例如：Google, Bing and Baidu)，然后粘贴到这里。
-    1. `author`: 主页作者信息，包括其他网页、Email、所在城市、大学等。
-    1. `google_scholar_stats_use_cdn`: 使用CDN读取存储于`https://raw.githubusercontent.com/`的google scholar引用统计数据，防止中国大陆地区被墙无法访问的情况。但是CDN有缓存，因此`google_scholar_stats_use_cdn : True`时，引用数据更新会有延迟。
-    1. 更多的配置信息在注释中有详细描述。
-1. 将你的主页内容添加到 [_pages/about.md](../_pages/about.md).
-1. 你的主页将会被部署到`https://USERNAME.github.io`.
+- Jekyll
+- GitHub Pages
+- 基于 Markdown 的内容管理
+- SCSS 主题样式定制
+- 图片与文件资源分别存放在 images 和 files 目录
 
-## 本地调试
+## 仓库结构
 
-1. 使用`git clone`将本项目克隆到本地。
-1. 安装Jekyll的构建环境，包括`Ruby`、`RubyGems`、`GCC`和`Make`。可参考[该教程](https://jekyllrb.com/docs/installation/#requirements)。
-1. 运行 `bash run_server.sh` 来启动Jekyll实时重载服务器。
-1. 在浏览器里打开 [http://127.0.0.1:4000](http://127.0.0.1:4000)。如果你修改了网页的源码，服务器会自动重新编译并刷新页面。
-1. 当你修改完毕你的页面以后, 使用`git`命令，`commit`你的改动并`push`到你的github仓库中。
+- `_pages/` - 用 Markdown 编写的主页内容
+- `_layouts/` - 页面布局模板
+- `_includes/` - 侧边栏、导航栏等可复用组件
+- `_sass/` - 主题样式与排版设置
+- `assets/` - CSS 和 JavaScript 资源
+- `files/` - 可下载文件，如 CV、专利与证书等
+- `images/` - 网站图片与视觉素材
 
-# Acknowledges
+## 使用方式
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+1. 克隆或 Fork 这个仓库。
+2. 修改 `_config.yml` 中的站点配置。
+3. 用 `_pages/about.md` 替换为自己的主页内容。
+4. 将图片和 PDF 文件分别放入 `images/` 和 `files/` 目录。
+5. 通过 GitHub Pages 发布站点。
+
+## 本地预览
+
+在本地运行：
+
+```bash
+bash run_server.sh
+```
+
+然后打开：
+
+```text
+http://127.0.0.1:4000
+```
+
+## 许可证
+
+本项目采用 MIT License。
