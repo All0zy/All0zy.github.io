@@ -41,7 +41,9 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
   </div>
   <div class='paper-box-text' markdown="1">
   [National Undergraduate Innovation and Entrepreneurship Training Program]
+
   Project Leader
+
   - Spearheaded the full-stack development of a dual-end supervision platform (Mobile & Web) using Node.js, Vue.js, and MySQL, integrating IoT platforms for real-time data acquisition and preprocessing.
   - Secured two Software Copyrights (Vehicle Online Application System, Vehicle Intelligent Supervision System) and one Utility Model Patent (Mining Vehicle Convoy Supervision Device based on MCU and Multi-sensors).
   </div>
@@ -57,7 +59,9 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
   </div>
   <div class='paper-box-text' markdown="1">
   [Provincial Undergraduate Innovation and Entrepreneurship Training Program]
+
   Researcher
+
   - Engineered data preprocessing pipelines and API interfaces for a comprehensive monitoring system supporting risk assessment, numerical simulation, subsidence monitoring, and early warning analysis.
   - Led frontend development to visualize complex mining data, enhancing situational awareness for disaster prevention.
   - Co-invented one Invention Patent: "Multi-factor Coupling Early Warning Method, Device, Equipment, and Medium for Mining Disasters."
@@ -66,14 +70,18 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
 
 ## 2025.09 - 2025.12, Research on Lightweight Processing Methods for Oblique Photography 3D Models
 [Undergraduate Research Training, Northeastern University]
+
 Researcher
+
 - Addressed challenges of large data volume and low rendering efficiency in oblique photography by reproducing an improved QEM (Quadric Error Metrics) algorithm.
 - Introduced curvature constraints and boundary protection mechanisms to optimize the geometry and texture of 3D models while maintaining visual fidelity.
 - Developed an integrated lightweight processing tool prototype using C++, OSG (OpenSceneGraph), and Qt.
 
 ## 2026.03 - 2026.06, Digital Twin Scene Construction and System Development Based on Multi-Source Model Fusion
 [Undergraduate Research Training, Northeastern University]
+
 Researcher
+
 - Constructed a preliminary WebGIS platform based on Three.js to facilitate the fusion of multi-source models within digital twin scenarios.
 - Implemented interactive visualization features to support the seamless display and manipulation of heterogeneous spatial data.
 
