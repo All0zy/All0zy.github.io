@@ -26,7 +26,7 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
 <div class="timeline-wrap">
   <div class="timeline-item">
     <span class="timeline-time">2023.08 - Present</span>
-    <div class="timeline-content"><strong>[Northeastern University (China)](https://www.neu.edu.cn/)</strong>, [School of Resources and Civil Engineering](http://www.zitu.neu.edu.cn/), Bachelor of Engineering in Surveying and Mapping Engineering</div>
+    <div class="timeline-content"><strong>Northeastern University (China)</strong>, School of Resources and Civil Engineering, Bachelor of Engineering in Surveying and Mapping Engineering</div>
   </div>
 </div>
 
